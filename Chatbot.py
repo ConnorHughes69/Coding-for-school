@@ -1,4 +1,5 @@
 import sys
+import math
 
 def GetInput(Message):
     userinput = ""
